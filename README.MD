@@ -11,7 +11,7 @@
 `sudo apt update && sudo apt upgrade -y`<br>
 `sudo apt install python -y`<br>
 `sudo apt install git -y`<br>
-https://github.com/Unkownboy0/DDDOS-HULK3.git <br>
+'git clonehttps://github.com/Unkownboy0/DDDOS-HULK3.git' <br>
 `python -m pip install -r requirements.txt`<br>
 `python hulk.py`<br>
 #
